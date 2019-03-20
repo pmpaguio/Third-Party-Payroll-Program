@@ -1,5 +1,3 @@
-// Paul Paguio
-//Section 1
 #include <iostream>
 #include <iomanip>
 #include <cstring>
